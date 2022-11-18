@@ -1,7 +1,5 @@
 # git_test
 my first github repo
 hello odin!
-fuck this motherfucker fucks
-fuck fuck fuck
-çok fazla küfür etmedim ben
-ağla
+This is the begin of new era for me because I am hopeful
+And thats really matters.
